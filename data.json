@@ -1,0 +1,2306 @@
+{
+  "VOCABULARY": [
+    {
+      "de": "Hallo",
+      "ka": "გამარჯობა",
+      "phonetic": "[ˈhaloː]",
+      "cat": "მისალმება",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Guten Morgen",
+      "ka": "დილა მშვიდობისა",
+      "phonetic": "[ˌɡuːtən ˈmɔʁɡən]",
+      "cat": "მისალმება",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Guten Tag",
+      "ka": "შუადღე მშვიდობისა",
+      "phonetic": "[ˌɡuːtən ˈtaːk]",
+      "cat": "მისალმება",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Guten Abend",
+      "ka": "საღამო მშვიდობისა",
+      "phonetic": "[ˌɡuːtən ˈaːbənt]",
+      "cat": "მისალმება",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Auf Wiedersehen",
+      "ka": "ნახვამდის",
+      "phonetic": "[ˌaʊf ˈviːdɐzeːən]",
+      "cat": "მისალმება",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Tschüss",
+      "ka": "ნახვამდის (არაფორმ.)",
+      "phonetic": "[tʃʏs]",
+      "cat": "მისალმება",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Bitte",
+      "ka": "გთხოვთ / არა უშავს",
+      "phonetic": "[ˈbɪtə]",
+      "cat": "ზოგადი",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Danke",
+      "ka": "მადლობა",
+      "phonetic": "[ˈdaŋkə]",
+      "cat": "ზოგადი",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Ja",
+      "ka": "დიახ",
+      "phonetic": "[jaː]",
+      "cat": "ზოგადი",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Nein",
+      "ka": "არა",
+      "phonetic": "[naɪn]",
+      "cat": "ზოგადი",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "der Mann",
+      "ka": "კაცი",
+      "phonetic": "[deːɐ̯ man]",
+      "cat": "ადამიანი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "die Frau",
+      "ka": "ქალი",
+      "phonetic": "[diː fʁaʊ]",
+      "cat": "ადამიანი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "das Kind",
+      "ka": "ბავშვი",
+      "phonetic": "[das kɪnt]",
+      "cat": "ადამიანი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Familie",
+      "ka": "ოჯახი",
+      "phonetic": "[diː faˈmiːliə]",
+      "cat": "ოჯახი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "die Mutter",
+      "ka": "დედა",
+      "phonetic": "[diː ˈmʊtɐ]",
+      "cat": "ოჯახი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Vater",
+      "ka": "მამა",
+      "phonetic": "[deːɐ̯ ˈfaːtɐ]",
+      "cat": "ოჯახი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Bruder",
+      "ka": "ძმა",
+      "phonetic": "[deːɐ̯ ˈbʁuːdɐ]",
+      "cat": "ოჯახი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "die Schwester",
+      "ka": "და",
+      "phonetic": "[diː ˈʃvɛstɐ]",
+      "cat": "ოჯახი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "das Haus",
+      "ka": "სახლი",
+      "phonetic": "[das haʊs]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Wohnung",
+      "ka": "ბინა",
+      "phonetic": "[diː ˈvoːnʊŋ]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "das Zimmer",
+      "ka": "ოთახი",
+      "phonetic": "[das ˈtsɪmɐ]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Küche",
+      "ka": "სამზარეულო",
+      "phonetic": "[diː ˈkʏçə]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "das Bad",
+      "ka": "სააბაზანო",
+      "phonetic": "[das baːt]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Tür",
+      "ka": "კარი",
+      "phonetic": "[diː tyːɐ̯]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "das Fenster",
+      "ka": "ფანჯარა",
+      "phonetic": "[das ˈfɛnstɐ]",
+      "cat": "სახლი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "eins",
+      "ka": "ერთი",
+      "phonetic": "[aɪns]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "zwei",
+      "ka": "ორი",
+      "phonetic": "[tsvaɪ]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "drei",
+      "ka": "სამი",
+      "phonetic": "[dʁaɪ]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "vier",
+      "ka": "ოთხი",
+      "phonetic": "[fiːɐ̯]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "fünf",
+      "ka": "ხუთი",
+      "phonetic": "[fʏnf]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "sechs",
+      "ka": "ექვსი",
+      "phonetic": "[zɛks]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "sieben",
+      "ka": "შვიდი",
+      "phonetic": "[ˈziːbən]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "acht",
+      "ka": "რვა",
+      "phonetic": "[axt]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "neun",
+      "ka": "ცხრა",
+      "phonetic": "[nɔɪn]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "zehn",
+      "ka": "ათი",
+      "phonetic": "[tseːn]",
+      "cat": "რიცხვები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "rot",
+      "ka": "წითელი",
+      "phonetic": "[ʁoːt]",
+      "cat": "ფერები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "blau",
+      "ka": "ლურჯი",
+      "phonetic": "[blaʊ]",
+      "cat": "ფერები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "grün",
+      "ka": "მწვანე",
+      "phonetic": "[ɡʁyːn]",
+      "cat": "ფერები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "gelb",
+      "ka": "ყვითელი",
+      "phonetic": "[ɡɛlp]",
+      "cat": "ფერები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schwarz",
+      "ka": "შავი",
+      "phonetic": "[ʃvaʁts]",
+      "cat": "ფერები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "weiß",
+      "ka": "თეთრი",
+      "phonetic": "[vaɪs]",
+      "cat": "ფერები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "das Wasser",
+      "ka": "წყალი",
+      "phonetic": "[das ˈvasɐ]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "das Brot",
+      "ka": "პური",
+      "phonetic": "[das bʁoːt]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Milch",
+      "ka": "რძე",
+      "phonetic": "[diː mɪlç]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Kaffee",
+      "ka": "ყავა",
+      "phonetic": "[deːɐ̯ ˈkafe]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Tee",
+      "ka": "ჩაი",
+      "phonetic": "[deːɐ̯ teː]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Fleisch",
+      "ka": "ხორცი",
+      "phonetic": "[das flaɪʃ]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "der Fisch",
+      "ka": "თევზი",
+      "phonetic": "[deːɐ̯ fɪʃ]",
+      "cat": "საჭმელ-სასმელი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "Montag",
+      "ka": "ორშაბათი",
+      "phonetic": "[ˈmoːntaːk]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Dienstag",
+      "ka": "სამშაბათი",
+      "phonetic": "[ˈdiːnstaːk]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Mittwoch",
+      "ka": "ოთხშაბათი",
+      "phonetic": "[ˈmɪtvoːx]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Donnerstag",
+      "ka": "ხუთშაბათი",
+      "phonetic": "[ˈdɔnɐstaːk]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Freitag",
+      "ka": "პარასკევი",
+      "phonetic": "[ˈfʁaɪtaːk]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Samstag",
+      "ka": "შაბათი",
+      "phonetic": "[ˈzamstaːk]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Sonntag",
+      "ka": "კვირა",
+      "phonetic": "[ˈzɔntaːk]",
+      "cat": "კვირის დღეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "der Beruf",
+      "ka": "პროფესია",
+      "phonetic": "[deːɐ̯ bəˈʁuːf]",
+      "cat": "სამსახური",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "die Arbeit",
+      "ka": "სამსახური / მუშაობა",
+      "phonetic": "[diː ˈaʁbaɪt]",
+      "cat": "სამსახური",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "der Chef",
+      "ka": "უფროსი",
+      "phonetic": "[deːɐ̯ ʃɛf]",
+      "cat": "სამსახური",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "das Büro",
+      "ka": "ოფისი",
+      "phonetic": "[das byˈʁoː]",
+      "cat": "სამსახური",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "der Computer",
+      "ka": "კომპიუტერი",
+      "phonetic": "[deːɐ̯ kɔmˈpjuːtɐ]",
+      "cat": "ტექნოლოგია",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "das Handy",
+      "ka": "მობილური ტელეფონი",
+      "phonetic": "[das ˈhɛndi]",
+      "cat": "ტექნოლოგია",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "das Internet",
+      "ka": "ინტერნეტი",
+      "phonetic": "[das ˈɪntɐnɛt]",
+      "cat": "ტექნოლოგია",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "die Stadt",
+      "ka": "ქალაქი",
+      "phonetic": "[diː ʃtat]",
+      "cat": "ადგილები",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "der Bahnhof",
+      "ka": "სარკინიგზო სადგური",
+      "phonetic": "[deːɐ̯ ˈbaːnhoːf]",
+      "cat": "ადგილები",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "das Krankenhaus",
+      "ka": "საავადმყოფო",
+      "phonetic": "[das ˈkʁaŋkənhaʊs]",
+      "cat": "ადგილები",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "die Schule",
+      "ka": "სკოლა",
+      "phonetic": "[diː ˈʃuːlə]",
+      "cat": "განათლება",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "die Universität",
+      "ka": "უნივერსიტეტი",
+      "phonetic": "[diː univɛʁziˈtɛːt]",
+      "cat": "განათლება",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "der Lehrer",
+      "ka": "მასწავლებელი (მამ.)",
+      "phonetic": "[deːɐ̯ ˈleːʁɐ]",
+      "cat": "განათლება",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "der Schüler",
+      "ka": "მოსწავლე (მამ.)",
+      "phonetic": "[deːɐ̯ ˈʃyːlɐ]",
+      "cat": "განათლება",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "das Buch",
+      "ka": "წიგნი",
+      "phonetic": "[das buːx]",
+      "cat": "განათლება",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "krank",
+      "ka": "ავადმყოფი",
+      "phonetic": "[kʁaŋk]",
+      "cat": "ჯანმრთელობა",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "der Arzt",
+      "ka": "ექიმი (მამ.)",
+      "phonetic": "[deːɐ̯ aːɐ̯tst]",
+      "cat": "ჯანმრთელობა",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "die Tablette",
+      "ka": "აბი / ტაბლეტი",
+      "phonetic": "[diː taˈblɛtə]",
+      "cat": "ჯანმრთელობა",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "die Apotheke",
+      "ka": "აფთიაქი",
+      "phonetic": "[diː apoˈteːkə]",
+      "cat": "ჯანმრთელობა",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "das Wetter",
+      "ka": "ამინდი",
+      "phonetic": "[das ˈvɛtɐ]",
+      "cat": "ამინდი",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "die Sonne",
+      "ka": "მზე",
+      "phonetic": "[diː ˈzɔnə]",
+      "cat": "ამინდი",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "der Regen",
+      "ka": "წვიმა",
+      "phonetic": "[deːɐ̯ ˈʁeːɡən]",
+      "cat": "ამინდი",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "der Schnee",
+      "ka": "თოვლი",
+      "phonetic": "[deːɐ̯ ʃneː]",
+      "cat": "ამინდი",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "warm",
+      "ka": "თბილი",
+      "phonetic": "[vaʁm]",
+      "cat": "ამინდი",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "kalt",
+      "ka": "ცივი",
+      "phonetic": "[kalt]",
+      "cat": "ამინდი",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "die Erfahrung",
+      "ka": "გამოცდილება",
+      "phonetic": "[diː ɛɐ̯ˈfaːʁʊŋ]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "die Entwicklung",
+      "ka": "განვითარება",
+      "phonetic": "[diː ɛntˈvɪklʊŋ]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "die Möglichkeit",
+      "ka": "შესაძლებლობა",
+      "phonetic": "[diː ˈmøːklɪçkaɪt]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "die Gesellschaft",
+      "ka": "საზოგადოება",
+      "phonetic": "[diː ɡəˈzɛlʃaft]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "der Unterschied",
+      "ka": "განსხვავება",
+      "phonetic": "[deːɐ̯ ˈʊntɐʃiːt]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "der"
+    },
+    {
+      "de": "die Beziehung",
+      "ka": "ურთიერთობა",
+      "phonetic": "[diː bəˈtsiːʊŋ]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "die Bedeutung",
+      "ka": "მნიშვნელობა",
+      "phonetic": "[diː bəˈdɔɪtʊŋ]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "das Beispiel",
+      "ka": "მაგალითი",
+      "phonetic": "[das bəˈʃpiːl]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "das"
+    },
+    {
+      "de": "die Entscheidung",
+      "ka": "გადაწყვეტილება",
+      "phonetic": "[diː ɛntˈʃaɪdʊŋ]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "die Verantwortung",
+      "ka": "პასუხისმგებლობა",
+      "phonetic": "[diː fɛɐ̯ˈantvɔʁtʊŋ]",
+      "cat": "B1 ლექსიკა",
+      "level": "B1",
+      "article": "die"
+    },
+    {
+      "de": "die Herausforderung",
+      "ka": "გამოწვევა",
+      "phonetic": "[diː hɛˈʁaʊsfɔʁdəʁʊŋ]",
+      "cat": "B2 ლექსიკა",
+      "level": "B2",
+      "article": "die"
+    },
+    {
+      "de": "die Auswirkung",
+      "ka": "ეფექტი / შედეგი",
+      "phonetic": "[diː ˈaʊsvɪʁkʊŋ]",
+      "cat": "B2 ლექსიკა",
+      "level": "B2",
+      "article": "die"
+    },
+    {
+      "de": "die Voraussetzung",
+      "ka": "წინაპირობა",
+      "phonetic": "[diː foˈʁaʊszɛtsʊŋ]",
+      "cat": "B2 ლექსიკა",
+      "level": "B2",
+      "article": "die"
+    },
+    {
+      "de": "der Zusammenhang",
+      "ka": "კავშირი / კონტექსტი",
+      "phonetic": "[deːɐ̯ tsuˈzamənhaŋ]",
+      "cat": "B2 ლექსიკა",
+      "level": "B2",
+      "article": "der"
+    },
+    {
+      "de": "die Gerechtigkeit",
+      "ka": "სამართლიანობა",
+      "phonetic": "[diː ɡəˈʁɛçtɪçkaɪt]",
+      "cat": "B2 ლექსიკა",
+      "level": "B2",
+      "article": "die"
+    },
+    {
+      "de": "die Nachhaltigkeit",
+      "ka": "მდგრადობა",
+      "phonetic": "[diː naːxˈhaltɪçkaɪt]",
+      "cat": "B2 ლექსიკა",
+      "level": "B2",
+      "article": "die"
+    },
+    {
+      "de": "die Abhandlung",
+      "ka": "ნაშრომი / ტრაქტატი",
+      "phonetic": "[diː ˈaphanlʊŋ]",
+      "cat": "C1/C2 ლექსიკა",
+      "level": "C1",
+      "article": "die"
+    },
+    {
+      "de": "die Beeinträchtigung",
+      "ka": "დარღვევა / შეფერხება",
+      "phonetic": "[diː bəˈaɪntʁɛçtɪɡʊŋ]",
+      "cat": "C1/C2 ლექსიკა",
+      "level": "C1",
+      "article": "die"
+    },
+    {
+      "de": "die Eigenverantwortlichkeit",
+      "ka": "პირადი პასუხისმგებლობა",
+      "phonetic": "[diː ˈaɪɡənfɛɐ̯antvɔʁtlɪçkaɪt]",
+      "cat": "C1/C2 ლექსიკა",
+      "level": "C2",
+      "article": "die"
+    },
+    {
+      "de": "der Hund",
+      "ka": "ძაღლი",
+      "phonetic": "[deːɐ̯ hʊnt]",
+      "cat": "ცხოველები",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "die Katze",
+      "ka": "კატა",
+      "phonetic": "[diː ˈkatsə]",
+      "cat": "ცხოველები",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Vogel",
+      "ka": "ფრინველი",
+      "phonetic": "[deːɐ̯ ˈfoːɡəl]",
+      "cat": "ცხოველები",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Pferd",
+      "ka": "ცხენი",
+      "phonetic": "[das pfɛʁt]",
+      "cat": "ცხოველები",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Kuh",
+      "ka": "ძროხა",
+      "phonetic": "[diː kuː]",
+      "cat": "ცხოველები",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Kopf",
+      "ka": "თავი",
+      "phonetic": "[deːɐ̯ kɔpf]",
+      "cat": "სხეულის ნაწილები",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "die Hand",
+      "ka": "ხელი",
+      "phonetic": "[diː hant]",
+      "cat": "სხეულის ნაწილები",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "das Auge",
+      "ka": "თვალი",
+      "phonetic": "[das ˈaʊɡə]",
+      "cat": "სხეულის ნაწილები",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "die Nase",
+      "ka": "ცხვირი",
+      "phonetic": "[diː ˈnaːzə]",
+      "cat": "სხეულის ნაწილები",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Mund",
+      "ka": "პირი",
+      "phonetic": "[deːɐ̯ mʊnt]",
+      "cat": "სხეულის ნაწილები",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Hemd",
+      "ka": "პერანგი",
+      "phonetic": "[das hɛmt]",
+      "cat": "ტანსაცმელი",
+      "level": "A2",
+      "article": "das"
+    },
+    {
+      "de": "die Hose",
+      "ka": "შარვალი",
+      "phonetic": "[diː ˈhoːzə]",
+      "cat": "ტანსაცმელი",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "die Jacke",
+      "ka": "ჟაკეტი",
+      "phonetic": "[diː ˈjakə]",
+      "cat": "ტანსაცმელი",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "der Schuh",
+      "ka": "ფეხსაცმელი",
+      "phonetic": "[deːɐ̯ ʃuː]",
+      "cat": "ტანსაცმელი",
+      "level": "A2",
+      "article": "der"
+    },
+    {
+      "de": "das Auto",
+      "ka": "მანქანა",
+      "phonetic": "[das ˈaʊtoː]",
+      "cat": "ტრანსპორტი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "der Bus",
+      "ka": "ავტობუსი",
+      "phonetic": "[deːɐ̯ bʊs]",
+      "cat": "ტრანსპორტი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Zug",
+      "ka": "მატარებელი",
+      "phonetic": "[deːɐ̯ tsuːk]",
+      "cat": "ტრანსპორტი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Flugzeug",
+      "ka": "თვითმფრინავი",
+      "phonetic": "[das ˈfluːktsoɪk]",
+      "cat": "ტრანსპორტი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "glücklich",
+      "ka": "ბედნიერი",
+      "phonetic": "[ˈɡlʏklɪç]",
+      "cat": "ემოციები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "traurig",
+      "ka": "სევდიანი",
+      "phonetic": "[ˈtʁaʊʁɪç]",
+      "cat": "ემოციები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "müde",
+      "ka": "დაღლილი",
+      "phonetic": "[ˈmyːdə]",
+      "cat": "ემოციები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "wütend",
+      "ka": "გაბრაზებული",
+      "phonetic": "[ˈvyːtənt]",
+      "cat": "ემოციები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "ängstlich",
+      "ka": "შეშინებული",
+      "phonetic": "[ˈɛŋstlɪç]",
+      "cat": "ემოციები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "der Berg",
+      "ka": "მთა",
+      "phonetic": "[deːɐ̯ bɛʁk]",
+      "cat": "ბუნება",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Fluss",
+      "ka": "მდინარე",
+      "phonetic": "[deːɐ̯ flʊs]",
+      "cat": "ბუნება",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Wald",
+      "ka": "ტყე",
+      "phonetic": "[deːɐ̯ valt]",
+      "cat": "ბუნება",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Meer",
+      "ka": "ზღვა",
+      "phonetic": "[das meːɐ̯]",
+      "cat": "ბუნება",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "Januar",
+      "ka": "იანვარი",
+      "phonetic": "[ˈjanuaːɐ̯]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Februar",
+      "ka": "თებერვალი",
+      "phonetic": "[ˈfeːbʁuaːɐ̯]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "März",
+      "ka": "მარტი",
+      "phonetic": "[mɛʁts]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "April",
+      "ka": "აპრილი",
+      "phonetic": "[aˈpʁɪl]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Mai",
+      "ka": "მაისი",
+      "phonetic": "[maɪ]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Juni",
+      "ka": "ივნისი",
+      "phonetic": "[ˈjuːni]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Juli",
+      "ka": "ივლისი",
+      "phonetic": "[ˈjuːli]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "August",
+      "ka": "აგვისტო",
+      "phonetic": "[aʊˈɡʊst]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "September",
+      "ka": "სექტემბერი",
+      "phonetic": "[zɛpˈtɛmbɐ]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Oktober",
+      "ka": "ოქტომბერი",
+      "phonetic": "[ɔkˈtoːbɐ]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "November",
+      "ka": "ნოემბერი",
+      "phonetic": "[noˈvɛmbɐ]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Dezember",
+      "ka": "დეკემბერი",
+      "phonetic": "[deˈtsɛmbɐ]",
+      "cat": "თვეები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "groß",
+      "ka": "დიდი",
+      "phonetic": "[ɡʁoːs]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "klein",
+      "ka": "პატარა",
+      "phonetic": "[klaɪn]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schön",
+      "ka": "ლამაზი",
+      "phonetic": "[ʃøːn]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "gut",
+      "ka": "კარგი",
+      "phonetic": "[ɡuːt]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schlecht",
+      "ka": "ცუდი",
+      "phonetic": "[ʃlɛçt]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "neu",
+      "ka": "ახალი",
+      "phonetic": "[nɔɪ]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "alt",
+      "ka": "ძველი / ასაკოვანი",
+      "phonetic": "[alt]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schnell",
+      "ka": "სწრაფი",
+      "phonetic": "[ʃnɛl]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "langsam",
+      "ka": "ნელი",
+      "phonetic": "[ˈlaŋzaːm]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "billig",
+      "ka": "იაფი",
+      "phonetic": "[ˈbɪlɪç]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "teuer",
+      "ka": "ძვირი",
+      "phonetic": "[ˈtɔɪɐ]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "lecker",
+      "ka": "გემრიელი",
+      "phonetic": "[ˈlɛkɐ]",
+      "cat": "ზედსართავები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schwer",
+      "ka": "მძიმე / რთული",
+      "phonetic": "[ʃveːɐ̯]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "leicht",
+      "ka": "მსუბუქი / ადვილი",
+      "phonetic": "[laɪçt]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "wichtig",
+      "ka": "მნიშვნელოვანი",
+      "phonetic": "[ˈvɪçtɪç]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "interessant",
+      "ka": "საინტერესო",
+      "phonetic": "[ɪntɛʁɛˈsant]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "langweilig",
+      "ka": "მოსაბეზრებელი",
+      "phonetic": "[ˈlaŋvaɪlɪç]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "laut",
+      "ka": "ხმამაღალი",
+      "phonetic": "[laʊt]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "leise",
+      "ka": "წყნარი / ჩუმი",
+      "phonetic": "[ˈlaɪzə]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "sauber",
+      "ka": "სუფთა",
+      "phonetic": "[ˈzaʊbɐ]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "schmutzig",
+      "ka": "ჭუჭყიანი",
+      "phonetic": "[ˈʃmʊtsɪç]",
+      "cat": "ზედსართავები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "essen",
+      "ka": "ჭამა",
+      "phonetic": "[ˈɛsən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "trinken",
+      "ka": "სმა",
+      "phonetic": "[ˈtʁɪŋkən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schlafen",
+      "ka": "ძილი",
+      "phonetic": "[ˈʃlaːfən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "gehen",
+      "ka": "სიარული / წასვლა",
+      "phonetic": "[ˈɡeːən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "kommen",
+      "ka": "მოსვლა",
+      "phonetic": "[ˈkɔmən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "sehen",
+      "ka": "ხედვა",
+      "phonetic": "[ˈzeːən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "hören",
+      "ka": "სმენა",
+      "phonetic": "[ˈhøːʁən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "sprechen",
+      "ka": "ლაპარაკი",
+      "phonetic": "[ˈʃpʁɛçən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "lesen",
+      "ka": "კითხვა",
+      "phonetic": "[ˈleːzən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "schreiben",
+      "ka": "წერა",
+      "phonetic": "[ˈʃʁaɪbən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "kaufen",
+      "ka": "ყიდვა",
+      "phonetic": "[ˈkaʊfən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "haben",
+      "ka": "ქონა",
+      "phonetic": "[ˈhaːbən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "sein",
+      "ka": "ყოფნა",
+      "phonetic": "[zaɪn]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "werden",
+      "ka": "გახდომა / გახდება",
+      "phonetic": "[ˈveːɐ̯dən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "machen",
+      "ka": "კეთება",
+      "phonetic": "[ˈmaxən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "arbeiten",
+      "ka": "მუშაობა",
+      "phonetic": "[ˈaʁbaɪtən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "lernen",
+      "ka": "სწავლა",
+      "phonetic": "[ˈlɛʁnən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "spielen",
+      "ka": "თამაში",
+      "phonetic": "[ˈʃpiːlən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "fahren",
+      "ka": "მგზავრობა (სატ.)",
+      "phonetic": "[ˈfaːʁən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "fliegen",
+      "ka": "ფრენა",
+      "phonetic": "[ˈfliːɡən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "wohnen",
+      "ka": "ცხოვრება (სად-მე)",
+      "phonetic": "[ˈvoːnən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "kochen",
+      "ka": "მომზადება (საჭმლის)",
+      "phonetic": "[ˈkɔxən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "singen",
+      "ka": "სიმღერა",
+      "phonetic": "[ˈzɪŋən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "tanzen",
+      "ka": "ცეკვა",
+      "phonetic": "[ˈtantsən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "laufen",
+      "ka": "სირბილი",
+      "phonetic": "[ˈlaʊfən]",
+      "cat": "ზმნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "suchen",
+      "ka": "ძებნა",
+      "phonetic": "[ˈzuːxən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "finden",
+      "ka": "პოვნა",
+      "phonetic": "[ˈfɪndən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "helfen",
+      "ka": "დახმარება",
+      "phonetic": "[ˈhɛlfən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "wissen",
+      "ka": "ცოდნა (ფაქტი)",
+      "phonetic": "[ˈvɪsən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "kennen",
+      "ka": "ცნობა (პირი/ადგ.)",
+      "phonetic": "[ˈkɛnən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "denken",
+      "ka": "ფიქრი",
+      "phonetic": "[ˈdɛŋkən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "glauben",
+      "ka": "რწმენა / ფიქრი",
+      "phonetic": "[ˈɡlaʊbən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "verstehen",
+      "ka": "გაგება",
+      "phonetic": "[fɛɐ̯ˈʃteːən]",
+      "cat": "ზმნები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "erklären",
+      "ka": "ახსნა",
+      "phonetic": "[ɛɐ̯ˈklɛːʁən]",
+      "cat": "ზმნები",
+      "level": "B1",
+      "article": ""
+    },
+    {
+      "de": "entscheiden",
+      "ka": "გადაწყვეტა",
+      "phonetic": "[ɛntˈʃaɪdən]",
+      "cat": "ზმნები",
+      "level": "B1",
+      "article": ""
+    },
+    {
+      "de": "erreichen",
+      "ka": "მიღწევა",
+      "phonetic": "[ɛɐ̯ˈʁaɪçən]",
+      "cat": "ზმნები",
+      "level": "B1",
+      "article": ""
+    },
+    {
+      "de": "verbessern",
+      "ka": "გაუმჯობესება",
+      "phonetic": "[fɛɐ̯ˈbɛsɐn]",
+      "cat": "ზმნები",
+      "level": "B1",
+      "article": ""
+    },
+    {
+      "de": "entwickeln",
+      "ka": "განვითარება (ზმ.)",
+      "phonetic": "[ɛntˈvɪkəln]",
+      "cat": "ზმნები",
+      "level": "B1",
+      "article": ""
+    },
+    {
+      "de": "in",
+      "ka": "შიგნით / -ში",
+      "phonetic": "[ɪn]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "auf",
+      "ka": "ზედ / -ზე",
+      "phonetic": "[aʊf]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "mit",
+      "ka": "-თან ერთად",
+      "phonetic": "[mɪt]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "ohne",
+      "ka": "გარეშე",
+      "phonetic": "[ˈoːnə]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "von",
+      "ka": "-დან / -ის",
+      "phonetic": "[fɔn]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "zu",
+      "ka": "-სკენ / -ზე",
+      "phonetic": "[tsuː]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "für",
+      "ka": "-ისთვის",
+      "phonetic": "[fyːɐ̯]",
+      "cat": "წინდებულები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "durch",
+      "ka": "გავლით / -ით",
+      "phonetic": "[dʊʁç]",
+      "cat": "წინდებულები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "über",
+      "ka": "ზემოთ / -ის შესახებ",
+      "phonetic": "[ˈyːbɐ]",
+      "cat": "წინდებულები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "unter",
+      "ka": "ქვემოთ",
+      "phonetic": "[ˈʊntɐ]",
+      "cat": "წინდებულები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "neben",
+      "ka": "გვერდით",
+      "phonetic": "[ˈneːbən]",
+      "cat": "წინდებულები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "zwischen",
+      "ka": "შორის",
+      "phonetic": "[ˈtsvɪʃən]",
+      "cat": "წინდებულები",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "Deutschland",
+      "ka": "გერმანია",
+      "phonetic": "[ˈdɔɪtʃlant]",
+      "cat": "ქვეყნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Georgien",
+      "ka": "საქართველო",
+      "phonetic": "[ɡeˈɔʁɡiən]",
+      "cat": "ქვეყნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "Österreich",
+      "ka": "ავსტრია",
+      "phonetic": "[ˈøːstɐʁaɪç]",
+      "cat": "ქვეყნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "die Schweiz",
+      "ka": "შვეიცარია",
+      "phonetic": "[diː ʃvaɪts]",
+      "cat": "ქვეყნები",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "Frankreich",
+      "ka": "საფრანგეთი",
+      "phonetic": "[ˈfʁaŋkʁaɪç]",
+      "cat": "ქვეყნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "England",
+      "ka": "ინგლისი",
+      "phonetic": "[ˈɛŋlant]",
+      "cat": "ქვეყნები",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "der Laden",
+      "ka": "მაღაზია",
+      "phonetic": "[deːɐ̯ ˈlaːdən]",
+      "cat": "შოპინგი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Markt",
+      "ka": "ბაზარი",
+      "phonetic": "[deːɐ̯ maʁkt]",
+      "cat": "შოპინგი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "der Preis",
+      "ka": "ფასი",
+      "phonetic": "[deːɐ̯ pʁaɪs]",
+      "cat": "შოპინგი",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Geld",
+      "ka": "ფული",
+      "phonetic": "[das ɡɛlt]",
+      "cat": "შოპინგი",
+      "level": "A1",
+      "article": "das"
+    },
+    {
+      "de": "bezahlen",
+      "ka": "გადახდა",
+      "phonetic": "[bəˈtsaːlən]",
+      "cat": "შოპინგი",
+      "level": "A2",
+      "article": ""
+    },
+    {
+      "de": "die Kasse",
+      "ka": "სალარო",
+      "phonetic": "[diː ˈkasə]",
+      "cat": "შოპინგი",
+      "level": "A2",
+      "article": "die"
+    },
+    {
+      "de": "jetzt",
+      "ka": "ახლა",
+      "phonetic": "[jɛtst]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "heute",
+      "ka": "დღეს",
+      "phonetic": "[ˈhɔɪtə]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "morgen",
+      "ka": "ხვალ",
+      "phonetic": "[ˈmɔʁɡən]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "gestern",
+      "ka": "გუშინ",
+      "phonetic": "[ˈɡɛstɐn]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "immer",
+      "ka": "ყოველთვის",
+      "phonetic": "[ˈɪmɐ]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "nie",
+      "ka": "არასოდეს",
+      "phonetic": "[niː]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "oft",
+      "ka": "ხშირად",
+      "phonetic": "[ɔft]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "manchmal",
+      "ka": "ზოგჯერ",
+      "phonetic": "[ˈmançmaːl]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "früh",
+      "ka": "ადრე",
+      "phonetic": "[fʁyː]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "spät",
+      "ka": "გვიან",
+      "phonetic": "[ʃpɛːt]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": ""
+    },
+    {
+      "de": "die Uhr",
+      "ka": "საათი (საგ.)",
+      "phonetic": "[diː uːɐ̯]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "die Minute",
+      "ka": "წუთი",
+      "phonetic": "[diː miˈnuːtə]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "die Stunde",
+      "ka": "საათი (ხანგ.)",
+      "phonetic": "[diː ˈʃtʊndə]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Tag",
+      "ka": "დღე",
+      "phonetic": "[deːɐ̯ taːk]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "die Woche",
+      "ka": "კვირა (7 დღე)",
+      "phonetic": "[diː ˈvɔxə]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "die"
+    },
+    {
+      "de": "der Monat",
+      "ka": "თვე",
+      "phonetic": "[deːɐ̯ ˈmoːnat]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "der"
+    },
+    {
+      "de": "das Jahr",
+      "ka": "წელი",
+      "phonetic": "[das jaːɐ̯]",
+      "cat": "დრო",
+      "level": "A1",
+      "article": "das"
+    }
+  ],
+  "CATEGORIES_META": {
+    "მისალმება": {
+      "icon": "👋",
+      "desc": "A1 – პირველი სიტყვები"
+    },
+    "ზოგადი": {
+      "icon": "💬",
+      "desc": "A1 – ყოველდღიური"
+    },
+    "ადამიანი": {
+      "icon": "👤",
+      "desc": "A1 – ადამიანები"
+    },
+    "ოჯახი": {
+      "icon": "👨‍👩‍👧",
+      "desc": "A1 – ოჯახი"
+    },
+    "სახლი": {
+      "icon": "🏠",
+      "desc": "A1 – სახლი"
+    },
+    "რიცხვები": {
+      "icon": "🔢",
+      "desc": "A1 – რიცხვები"
+    },
+    "ფერები": {
+      "icon": "🎨",
+      "desc": "A1 – ფერები"
+    },
+    "საჭმელ-სასმელი": {
+      "icon": "🍽️",
+      "desc": "A1 – საკვები"
+    },
+    "კვირის დღეები": {
+      "icon": "📅",
+      "desc": "A1 – დღეები"
+    },
+    "თვეები": {
+      "icon": "🗓️",
+      "desc": "A1 – თვეები"
+    },
+    "ზმნები": {
+      "icon": "⚡",
+      "desc": "A1–B1 – ზმნები"
+    },
+    "ზედსართავები": {
+      "icon": "✨",
+      "desc": "A1–A2 – ეპითეტები"
+    },
+    "წინდებულები": {
+      "icon": "📍",
+      "desc": "A1–A2 – წინდებულები"
+    },
+    "ცხოველები": {
+      "icon": "🐾",
+      "desc": "A1 – ცხოველები"
+    },
+    "სხეულის ნაწილები": {
+      "icon": "🫀",
+      "desc": "A1 – სხეული"
+    },
+    "ტანსაცმელი": {
+      "icon": "👗",
+      "desc": "A2 – ტანსაცმელი"
+    },
+    "ტრანსპორტი": {
+      "icon": "🚗",
+      "desc": "A1 – ტრანსპორტი"
+    },
+    "ემოციები": {
+      "icon": "😊",
+      "desc": "A2 – გრძნობები"
+    },
+    "ბუნება": {
+      "icon": "🌿",
+      "desc": "A1 – ბუნება"
+    },
+    "ამინდი": {
+      "icon": "🌤️",
+      "desc": "A2 – ამინდი"
+    },
+    "სამსახური": {
+      "icon": "💼",
+      "desc": "A2 – სამსახური"
+    },
+    "ტექნოლოგია": {
+      "icon": "💻",
+      "desc": "A2 – ტექნო"
+    },
+    "ადგილები": {
+      "icon": "📍",
+      "desc": "A2 – ადგილები"
+    },
+    "განათლება": {
+      "icon": "🎓",
+      "desc": "A2 – სკოლა/უნი"
+    },
+    "ჯანმრთელობა": {
+      "icon": "🏥",
+      "desc": "A2 – ჯანმრთელობა"
+    },
+    "ქვეყნები": {
+      "icon": "🌍",
+      "desc": "A1 – ქვეყნები"
+    },
+    "შოპინგი": {
+      "icon": "🛍️",
+      "desc": "A1–A2 – შოპინგი"
+    },
+    "დრო": {
+      "icon": "⏰",
+      "desc": "A1 – დრო"
+    },
+    "B1 ლექსიკა": {
+      "icon": "📗",
+      "desc": "B1 – შუა დონე"
+    },
+    "B2 ლექსიკა": {
+      "icon": "📘",
+      "desc": "B2 – ზედა-შუა"
+    },
+    "C1/C2 ლექსიკა": {
+      "icon": "📙",
+      "desc": "C1/C2 – მოწინავე"
+    }
+  },
+  "GRAMMAR_RULES": [
+    {
+      "title": "არტიკლები: der, die, das",
+      "icon": "📌",
+      "level": "A1",
+      "body": "\n      <p style=\"font-size:0.85rem;color:var(--text2);margin:12px 0;line-height:1.7;\">გერმანულ ენაში არსებობს სამი განსაზღვრული არტიკლი: <strong>der</strong> (მამრ.), <strong>die</strong> (მდედ./მრ.რ.), <strong>das</strong> (საშ.). განუსაზღვრელი: <strong>ein/eine/ein</strong>.</p>\n      <table class=\"grammar-table\">\n        <tr><th>სქესი</th><th>განსაზ.</th><th>განუსაზ.</th><th>მაგალითი</th></tr>\n        <tr><td>მამრობითი</td><td>der</td><td>ein</td><td>der Mann</td></tr>\n        <tr><td>მდედრობითი</td><td>die</td><td>eine</td><td>die Frau</td></tr>\n        <tr><td>საშ.</td><td>das</td><td>ein</td><td>das Kind</td></tr>\n        <tr><td>მრ. რ.</td><td>die</td><td>—</td><td>die Männer</td></tr>\n      </table>\n      <div class=\"grammar-note\">💡 სქესი უნდა ისწავლოთ სიტყვასთან ერთად — არ არსებობს უნივერსალური წესი. თუმცა: -ung, -heit, -keit, -schaft სუფიქსიანი სიტყვები ყოველთვის die.</div>"
+    },
+    {
+      "title": "Kasus: ბრუნვები (Nominativ, Akkusativ, Dativ, Genitiv)",
+      "icon": "🔄",
+      "level": "A2",
+      "body": "\n      <p style=\"font-size:0.85rem;color:var(--text2);margin:12px 0;line-height:1.7;\">გერმანულ ენაში 4 ბრუნვაა. არტიკლი იცვლება ბრუნვის მიხედვით.</p>\n      <table class=\"grammar-table\">\n        <tr><th>ბრუნვა</th><th>der (m)</th><th>die (f)</th><th>das (n)</th><th>die (pl)</th></tr>\n        <tr><td>Nominativ</td><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n        <tr><td>Akkusativ</td><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n        <tr><td>Dativ</td><td>dem</td><td>der</td><td>dem</td><td>den</td></tr>\n        <tr><td>Genitiv</td><td>des</td><td>der</td><td>des</td><td>der</td></tr>\n      </table>\n      <div class=\"grammar-example\"><div class=\"de\">Der Mann sieht den Hund.</div><div class=\"ka\">კაცი ხედავს ძაღლს. (Mann=Nom, Hund=Akk)</div></div>"
+    },
+    {
+      "title": "Präsens: აწმყო დრო (sein, haben)",
+      "icon": "⏱️",
+      "level": "A1",
+      "body": "\n      <table class=\"grammar-table\">\n        <tr><th>პირი</th><th>sein (ყოფნა)</th><th>haben (ქონა)</th></tr>\n        <tr><td>ich</td><td>bin</td><td>habe</td></tr>\n        <tr><td>du</td><td>bist</td><td>hast</td></tr>\n        <tr><td>er/sie/es</td><td>ist</td><td>hat</td></tr>\n        <tr><td>wir</td><td>sind</td><td>haben</td></tr>\n        <tr><td>ihr</td><td>seid</td><td>habt</td></tr>\n        <tr><td>sie/Sie</td><td>sind</td><td>haben</td></tr>\n      </table>\n      <div class=\"grammar-example\"><div class=\"de\">Ich bin Student. / Ich habe ein Buch.</div><div class=\"ka\">მე ვარ სტუდენტი. / მე მაქვს წიგნი.</div></div>"
+    },
+    {
+      "title": "Satzstellung: წინადადების სტრუქტურა (V2)",
+      "icon": "📐",
+      "level": "A2",
+      "body": "\n      <p style=\"font-size:0.85rem;color:var(--text2);margin:12px 0;line-height:1.7;\">გერმანულ მთავარ წინადადებაში ზმნა <strong>ყოველთვის მე-2 პოზიციაშია</strong>.</p>\n      <table class=\"grammar-table\">\n        <tr><th>პოზ. 1</th><th>ზმნა (V2)</th><th>სუბ.</th><th>დანარჩენი</th></tr>\n        <tr><td>Ich</td><td>gehe</td><td>—</td><td>heute nach Hause.</td></tr>\n        <tr><td>Heute</td><td>gehe</td><td>ich</td><td>nach Hause.</td></tr>\n        <tr><td>Nach Hause</td><td>gehe</td><td>ich</td><td>heute.</td></tr>\n      </table>\n      <div class=\"grammar-note\">💡 ქვე-წინადადებებში ზმნა ბოლოს მიდის: \"Ich weiß, dass er <strong>kommt</strong>.\"</div>"
+    },
+    {
+      "title": "Modalverben: მოდალური ზმნები",
+      "icon": "🎯",
+      "level": "A2",
+      "body": "\n      <table class=\"grammar-table\">\n        <tr><th>ზმნა</th><th>მნიშვნელობა</th><th>ich</th><th>du</th><th>er/sie/es</th></tr>\n        <tr><td>können</td><td>შეძლება</td><td>kann</td><td>kannst</td><td>kann</td></tr>\n        <tr><td>müssen</td><td>სავალდებ.</td><td>muss</td><td>musst</td><td>muss</td></tr>\n        <tr><td>wollen</td><td>სურვილი</td><td>will</td><td>willst</td><td>will</td></tr>\n        <tr><td>sollen</td><td>მოვალეობა</td><td>soll</td><td>sollst</td><td>soll</td></tr>\n        <tr><td>dürfen</td><td>ნებართვა</td><td>darf</td><td>darfst</td><td>darf</td></tr>\n        <tr><td>mögen</td><td>მოწონება</td><td>mag</td><td>magst</td><td>mag</td></tr>\n      </table>\n      <div class=\"grammar-example\"><div class=\"de\">Ich kann Deutsch sprechen.</div><div class=\"ka\">მე შემიძლია გერმანულად ლაპარაკი.</div></div>"
+    },
+    {
+      "title": "Perfekt: ნამდვილი წარსული",
+      "icon": "⌛",
+      "level": "A2",
+      "body": "\n      <p style=\"font-size:0.85rem;color:var(--text2);margin:12px 0;line-height:1.7;\">Perfekt = haben/sein (V2) + Partizip II (ბოლოს). გამოიყენება ზეპირ მეტყველებაში.</p>\n      <table class=\"grammar-table\">\n        <tr><th>ინფ.</th><th>Partizip II</th><th>დამხ.ზ.</th><th>მაგ.</th></tr>\n        <tr><td>machen</td><td>gemacht</td><td>haben</td><td>Ich habe gemacht.</td></tr>\n        <tr><td>gehen</td><td>gegangen</td><td>sein</td><td>Ich bin gegangen.</td></tr>\n        <tr><td>essen</td><td>gegessen</td><td>haben</td><td>Er hat gegessen.</td></tr>\n        <tr><td>fahren</td><td>gefahren</td><td>sein</td><td>Wir sind gefahren.</td></tr>\n      </table>\n      <div class=\"grammar-note\">💡 „sein\"-ით Perfekt: გადაადგილების და მდგომარეობის ცვლილების ზმნები (gehen, kommen, fahren, werden...)</div>"
+    },
+    {
+      "title": "Konjunktiv II: ირეალური პირობა",
+      "icon": "🌀",
+      "level": "B1",
+      "body": "\n      <p style=\"font-size:0.85rem;color:var(--text2);margin:12px 0;line-height:1.7;\">Konjunktiv II გამოიყენება სურვილის, ირეალური პირობის და თავაზიანი თხოვნისთვის.</p>\n      <table class=\"grammar-table\">\n        <tr><th>პირი</th><th>würde + Inf.</th><th>wäre</th><th>hätte</th></tr>\n        <tr><td>ich</td><td>würde gehen</td><td>wäre</td><td>hätte</td></tr>\n        <tr><td>du</td><td>würdest gehen</td><td>wärst</td><td>hättest</td></tr>\n        <tr><td>er/sie</td><td>würde gehen</td><td>wäre</td><td>hätte</td></tr>\n      </table>\n      <div class=\"grammar-example\"><div class=\"de\">Wenn ich Zeit hätte, würde ich lernen.</div><div class=\"ka\">რომ დრო მქონდეს, ვისწავლიდი.</div></div>"
+    },
+    {
+      "title": "Adjektivdeklination: ზედსართავის ბრუნება",
+      "icon": "🎭",
+      "level": "B1",
+      "body": "\n      <p style=\"font-size:0.85rem;color:var(--text2);margin:12px 0;line-height:1.7;\">ზედსართავი ბრუნება დამოკიდებულია: 1) ბრუნვაზე, 2) სქესზე, 3) რომელი არტიკლია.</p>\n      <table class=\"grammar-table\">\n        <tr><th></th><th>მამრ. (Nom)</th><th>მდედ. (Nom)</th><th>საშ. (Nom)</th></tr>\n        <tr><td>განსაზ.</td><td>der alte Mann</td><td>die alte Frau</td><td>das alte Kind</td></tr>\n        <tr><td>განუსაზ.</td><td>ein alter Mann</td><td>eine alte Frau</td><td>ein altes Kind</td></tr>\n        <tr><td>არტ. გარ.</td><td>alter Mann</td><td>alte Frau</td><td>altes Kind</td></tr>\n      </table>"
+    }
+  ],
+  "LESSONS_DATA": [
+    {
+      "num": 1,
+      "title": "გამარჯობა და გამოთხოვება",
+      "meta": "A1 · 10 სიტყვა · 15 წთ",
+      "level": "A1"
+    },
+    {
+      "num": 2,
+      "title": "ოჯახი და ახლობლები",
+      "meta": "A1 · 12 სიტყვა · 20 წთ",
+      "level": "A1"
+    },
+    {
+      "num": 3,
+      "title": "სახლი და ოთახები",
+      "meta": "A1 · 10 სიტყვა · 20 წთ",
+      "level": "A1"
+    },
+    {
+      "num": 4,
+      "title": "საჭმელი და სასმელი",
+      "meta": "A1 · 15 სიტყვა · 25 წთ",
+      "level": "A1"
+    },
+    {
+      "num": 5,
+      "title": "ფერები და ზომები",
+      "meta": "A1 · 12 სიტყვა · 20 წთ",
+      "level": "A1"
+    },
+    {
+      "num": 6,
+      "title": "ქალაქი და ტრანსპორტი",
+      "meta": "A2 · 14 სიტყვა · 25 წთ",
+      "level": "A2"
+    },
+    {
+      "num": 7,
+      "title": "სამსახური და პროფესიები",
+      "meta": "A2 · 16 სიტყვა · 30 წთ",
+      "level": "A2"
+    },
+    {
+      "num": 8,
+      "title": "ჯანმრთელობა და ექიმი",
+      "meta": "A2 · 12 სიტყვა · 25 წთ",
+      "level": "A2"
+    },
+    {
+      "num": 9,
+      "title": "ამინდი და სეზონები",
+      "meta": "A2 · 10 სიტყვა · 20 წთ",
+      "level": "A2"
+    },
+    {
+      "num": 10,
+      "title": "მოდალური ზმნები",
+      "meta": "B1 · 8 ზმნა · 35 წთ",
+      "level": "B1"
+    },
+    {
+      "num": 11,
+      "title": "Perfekt წარსული",
+      "meta": "B1 · გრამ. · 40 წთ",
+      "level": "B1"
+    },
+    {
+      "num": 12,
+      "title": "ბრუნვები სიღრმეში",
+      "meta": "B1 · გრამ. · 45 წთ",
+      "level": "B1"
+    }
+  ],
+  "PHONETICS_DATA": [
+    {
+      "symbol": "ʀ",
+      "de": "Rot, Regen",
+      "ka": "ყელის 'ღ' ბგერა - არარის მსგავსი"
+    },
+    {
+      "symbol": "ü [y]",
+      "de": "fünf, über, grün",
+      "ka": "ქართული 'ი' + მომრგვალებული ტუჩები"
+    },
+    {
+      "symbol": "ö [ø]",
+      "de": "schön, Österreich",
+      "ka": "ქართული 'ე' + მომრგვალებული ტუჩები"
+    },
+    {
+      "symbol": "ä [ɛ]",
+      "de": "Männer, Mädchen",
+      "ka": "ფართო 'ე' ბგერა"
+    },
+    {
+      "symbol": "ch [ç]",
+      "de": "ich, nicht, Milch",
+      "ka": "'ი'-ს შემდეგ: 'ჰ'+ი ბგერა"
+    },
+    {
+      "symbol": "ch [x]",
+      "de": "Bach, nach, Buch",
+      "ka": "'ა/ო/უ'-ს შემდეგ: 'ხ' ბგერა"
+    },
+    {
+      "symbol": "sch [ʃ]",
+      "de": "Schule, schön",
+      "ka": "ქართული 'შ' ბგერა"
+    },
+    {
+      "symbol": "sp/st [ʃp/ʃt]",
+      "de": "sprechen, Stadt",
+      "ka": "სიტყვის თავში: 'შპ'/'შტ'"
+    },
+    {
+      "symbol": "z [ts]",
+      "de": "zehn, Zeit",
+      "ka": "ქართული 'ც' ბგერა"
+    },
+    {
+      "symbol": "w [v]",
+      "de": "Wasser, wohnen",
+      "ka": "ქართული 'ვ' ბგერა"
+    },
+    {
+      "symbol": "v [f/v]",
+      "de": "Vogel, Vater",
+      "ka": "სიტყვ. თავ: 'ფ'; ბოლ: 'ვ'"
+    },
+    {
+      "symbol": "ei [aɪ]",
+      "de": "ein, zwei, weiß",
+      "ka": "ქართული 'ეი' დიფთონგი"
+    },
+    {
+      "symbol": "eu/äu [ɔɪ]",
+      "de": "neu, Häuser",
+      "ka": "ქართული 'ოი' დიფთონგი"
+    },
+    {
+      "symbol": "ie [iː]",
+      "de": "die, viel, lieben",
+      "ka": "გრძელი 'ი' ბგერა"
+    },
+    {
+      "symbol": "ß [s]",
+      "de": "Straße, Fuß",
+      "ka": "გრძელი 'ს' ბგერა (=ss)"
+    },
+    {
+      "symbol": "ng [ŋ]",
+      "de": "singen, lang",
+      "ka": "ინგლ. 'ng'-ს მსგავსი"
+    }
+  ],
+  "DAILY_SENTENCES": [
+    {
+      "de": "Guten Morgen!",
+      "ka": "დილა მშვიდობისა!"
+    },
+    {
+      "de": "Ich lerne heute Deutsch.",
+      "ka": "დღეს გერმანულს ვსწავლობ."
+    },
+    {
+      "de": "Wiederholung macht stark.",
+      "ka": "გამეორება აძლიერებს მეხსიერებას."
+    },
+    {
+      "de": "Kannst du das bitte wiederholen?",
+      "ka": "შეგიძლია ეს კიდევ ერთხელ გაიმეორო?"
+    },
+    {
+      "de": "Heute ist ein guter Lerntag.",
+      "ka": "დღეს კარგი სასწავლო დღეა."
+    },
+    {
+      "de": "Ich verstehe ein bisschen Deutsch.",
+      "ka": "ცოტა გერმანული მესმის."
+    },
+    {
+      "de": "Übung macht den Meister.",
+      "ka": "ვარჯიში ოსტატს ქმნის."
+    }
+  ],
+  "ACHIEVEMENTS": [
+    {
+      "id": "first10",
+      "title": "პირველი 10 სიტყვა",
+      "desc": "დაამახსოვრე 10 სიტყვა"
+    },
+    {
+      "id": "first25",
+      "title": "25 სიტყვა",
+      "desc": "დაამახსოვრე 25 სიტყვა"
+    },
+    {
+      "id": "streak7",
+      "title": "7-დღიანი სერია",
+      "desc": "მიაღწიე 7 დღიან სერიას"
+    },
+    {
+      "id": "xp100",
+      "title": "100 XP",
+      "desc": "მიაღწიე 100 XP-ს"
+    },
+    {
+      "id": "xp500",
+      "title": "500 XP",
+      "desc": "მიაღწიე 500 XP-ს"
+    },
+    {
+      "id": "flash30",
+      "title": "30 გამეორება",
+      "desc": "გაიარე 30 flashcard"
+    }
+  ],
+  "APP_INFO": {
+    "name": "DeutschGeo",
+    "version": "2.0.0"
+  }
+}
